@@ -4,7 +4,7 @@ emoji: 🤖
 colorFrom: indigo
 colorTo: purple
 sdk: gradio
-app_file: sql_app.py
+app_file: app_sql.py
 python_version: "3.13.5"
 ---
 
@@ -61,6 +61,6 @@ This agent solves the problem by providing instant, structured feedback based on
 
 4.  **Run the Gradio app:**
     ```bash
-    gradio sql_app.py
+    gradio app_sql.py
     ```
     (Or `python app.py`)
