@@ -5,7 +5,7 @@ colorFrom: indigo
 colorTo: purple
 sdk: gradio
 app_file: app_sql.py
-python_version: "3.13.5"
+python_version: "3.13.9"
 ---
 
 # 🤖 AI SQL Feedback Agent
