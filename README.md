@@ -12,7 +12,7 @@ python_version: "3.13.9"
 
 [![Gradio App](https://img.shields.io/badge/Gradio-App-ff7c00)](https://aboudougafar-sql-coach-app.hf.space)
 [![LangChain](https://img.shields.io/badge/LangChain-v0.1-green)](https://www.langchain.com/)
-[![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![Python 3.13.9](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3139/)
 
 This project is a Generative AI application that acts as an "AI SQL Coach." It uses LangChain and a Large Language Model (LLM) to provide expert, nuanced feedback on a user's SQL queries, helping them learn *why* their solution is right or wrong.
 
