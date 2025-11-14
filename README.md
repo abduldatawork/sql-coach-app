@@ -4,13 +4,13 @@ emoji: 🤖
 colorFrom: indigo
 colorTo: purple
 sdk: gradio
-app_file: app_sql.py
+app_file: app.py
 python_version: "3.13.9"
 ---
 
 # 🤖 AI SQL Feedback Agent
 
-[![Gradio App](https://img.shields.io/badge/Gradio-App-ff7c00)](https://YOUR-GRADIO-SPACE-LINK-HERE)
+[![Gradio App](https://img.shields.io/badge/Gradio-App-ff7c00)](https://aboudougafar-sql-coach-app.hf.space)
 [![LangChain](https://img.shields.io/badge/LangChain-v0.1-green)](https://www.langchain.com/)
 [![Python 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 
@@ -61,6 +61,6 @@ This agent solves the problem by providing instant, structured feedback based on
 
 4.  **Run the Gradio app:**
     ```bash
-    gradio app_sql.py
+    gradio app.py
     ```
     (Or `python app.py`)
